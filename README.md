@@ -1,6 +1,6 @@
 # hyperbolic-escher-tesselations
 
-This repository contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code. If you follow this very brief tutorial, you should be able to read a group presentation off a (Euclidean, hyperbolic or spherical) tesselation.
+This repository contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code. If you follow this very brief tutorial, you should be able to read a group presentation off a (Euclidean, hyperbolic or spherical) tesselation. For a more detailed investigation check out my (unrevised) undergraduate thesis, which I have commited in this repository.
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/samsucksatcalculus/hyperbolic-escher-tesselations/blob/main/Circle-Limit-I.jpeg?raw=true" 
